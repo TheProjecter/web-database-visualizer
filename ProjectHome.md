@@ -1,0 +1,1 @@
+A set of tools to automatically visualize data directly from any database. and more. written using flex as a front end and java as a back end communicating using flex dataservices (now livecycle data services).
